@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "description": "South street"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "description": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "description": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "description": "West street"
+    }
+  ]
+}
